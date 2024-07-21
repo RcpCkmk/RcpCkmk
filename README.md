@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @RcpCkmk
+- 👋 Hi, I’m Recep
 - 👀 I’m interested in >>>python
 - ->web design
 - ->cyber security
+- I like solving problem, and learning new things.
